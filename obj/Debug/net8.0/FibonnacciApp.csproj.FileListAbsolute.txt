@@ -1,0 +1,14 @@
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\bin\Debug\net8.0\FibonnacciApp.exe
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\bin\Debug\net8.0\FibonnacciApp.deps.json
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\bin\Debug\net8.0\FibonnacciApp.runtimeconfig.json
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\bin\Debug\net8.0\FibonnacciApp.dll
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\bin\Debug\net8.0\FibonnacciApp.pdb
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.AssemblyInfoInputs.cache
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.AssemblyInfo.cs
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.csproj.CoreCompileInputs.cache
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.dll
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\refint\FibonnacciApp.dll
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.pdb
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\FibonnacciApp.genruntimeconfig.cache
+C:\Users\1rors\Desktop\Estágio\FibonnacciApp\obj\Debug\net8.0\ref\FibonnacciApp.dll
