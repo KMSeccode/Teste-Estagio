@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1rors\\Desktop\\Estágio\\FibonnacciApp\\FibonnacciApp.csproj",
+      "projectUniqueName": "C:\\Users\\1rors\\Desktop\\Estágio\\FibonnacciApp\\Exercício1\\FibonnacciApp.csproj",
       "projectName": "FibonnacciApp",
-      "projectPath": "C:\\Users\\1rors\\Desktop\\Estágio\\FibonnacciApp\\FibonnacciApp.csproj",
+      "projectPath": "C:\\Users\\1rors\\Desktop\\Estágio\\FibonnacciApp\\Exercício1\\FibonnacciApp.csproj",
       "packagesPath": "C:\\Users\\1rors\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1rors\\Desktop\\Estágio\\FibonnacciApp\\obj\\",
+      "outputPath": "C:\\Users\\1rors\\Desktop\\Estágio\\FibonnacciApp\\Exercício1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1rors\\AppData\\Roaming\\NuGet\\NuGet.Config",
