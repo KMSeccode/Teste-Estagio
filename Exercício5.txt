@@ -1,0 +1,2 @@
+eu primeiro rotularia os interruptores em A, B e C. depois ligaria o interruptor A por tempo o suficiente para aquecer a sua respectiva lâmpada. depois, eu iria desligar esse interruptor e ligar o B, seguido de uma ida até a sala das lâmpadas. aí vou identificar se:
+a lâmpada estiver apagada porém quente, pertence a A. se estiver acesa é B e se estiver apagada e "fria", C.
