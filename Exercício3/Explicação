@@ -1,0 +1,6 @@
+o codigo começa com INDICE com valor 12, SOMA com valor 0 e o K com valor 1. 
+ele entra em um laço while que continua enquanto o K for menor que o INDICE. 
+dentro do laço, K vai sendo adicionado em +1 e o novo valor de K é adicionado a SOMA.
+quando K atinge o valor de 12, o laço para.
+
+SOMA vai ser a soma de todos os números inteiros de 2 a 11 que dá 77
